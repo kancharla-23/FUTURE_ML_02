@@ -1,0 +1,11 @@
+Ticket,Category,Priority
+"My internet is not working","Technical","High"
+"I forgot my password","Account","Medium"
+"Payment failed but money deducted","Billing","High"
+"I need invoice copy","Billing","Low"
+"Website is loading slowly","Technical","Medium"
+"Unable to login to my account","Account","High"
+"I want to change my email address","Account","Low"
+"Refund status not updated","Billing","Medium"
+"My app is crashing again and again","Technical","High"
+"I want to update my phone number","Account","Low"
